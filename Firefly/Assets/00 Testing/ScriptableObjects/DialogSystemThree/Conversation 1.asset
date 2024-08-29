@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe2fca624c4360499c32336822f2371, type: 3}
+  m_Name: Conversation 1
+  m_EditorClassIdentifier: 
+  dialogInfo:
+  - character: {fileID: 11400000, guid: 3da84526df9362a4887bd4bbd44103a0, type: 2}
+    myText: Children of the night. What music they make.
+  - character: {fileID: 11400000, guid: 3da84526df9362a4887bd4bbd44103a0, type: 2}
+    myText: It's a great honor to meet you. My name is Dracula. Count Dracula.
+  - character: {fileID: 11400000, guid: 7066235931cd04648a9e0af112f3dbb7, type: 2}
+    myText: oh hello. I am kind of new here.
+  - character: {fileID: 11400000, guid: 3da84526df9362a4887bd4bbd44103a0, type: 2}
+    myText: Oh I see.
+  - character: {fileID: 11400000, guid: 7066235931cd04648a9e0af112f3dbb7, type: 2}
+    myText: Thank you for your kindness.
+  - character: {fileID: 11400000, guid: 3da84526df9362a4887bd4bbd44103a0, type: 2}
+    myText: Come on. Welcome to Transylvania.
